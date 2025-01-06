@@ -15,7 +15,9 @@ if name == "main":
 ---
 
 ## Skills 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,github&perline=3)](https://skillicons.dev)
+
+
 ---
 ### Let's Contact 🫶 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basmala-eltabakh-79897b288?) 
