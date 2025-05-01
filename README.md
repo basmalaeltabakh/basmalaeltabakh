@@ -24,16 +24,10 @@ Always curious, always learning — and always ready for the next challenge 🙏
 ---
 ##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basmalaeltabakh&show_icons=true&theme=radical" alt="Basmala's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basmalaeltabakh&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=basmalaeltabakh&show_icons=true&theme=radical" alt="Basmala's GitHub Stats" /> </p>
 
 
-##  Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=basmalaeltabakh&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
