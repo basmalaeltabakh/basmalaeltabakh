@@ -12,8 +12,7 @@ Always curious, always learning — and always ready for the next challenge 🙏
 - **Advanced C++ & OOP**  
 - **Data Structures & Algorithms**  
 - **Excel** for data organization  
-- **Power BI** for data visualization and dashboards  
-- **Machine Learning** fundamentals and applications  
+ 
 
 ---
 
