@@ -21,17 +21,7 @@ Always curious, always learning — and always ready for the next challenge 🙏
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
-##  GitHub Stats
 
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=basmalaeltabakh&show_icons=true&theme=radical" alt="Basmala's GitHub Stats" /> </p>
-
-
-###  Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basmalaeltabakh&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
----
 
 ## 🤝 Connect With Me
 
