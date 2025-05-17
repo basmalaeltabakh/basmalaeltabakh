@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Basmala Saeed
 
-## 🌟 About Me  
 I'm Basmala Saeed, a CS student with a deep interest in **Data Science**, **Machine Learning**, and **Problem Solving**.  
 I'm passionate about uncovering insights from data and building real-world solutions using tech.  
 Always curious, always learning — and always ready for the next challenge 🙏
