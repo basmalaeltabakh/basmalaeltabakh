@@ -60,7 +60,7 @@ My goal is to become a skilled **Data Scientist** who makes a difference through
 ### 🏆 Achievements
 
 - 🥉 **3rd Place Winner** at **MCIT Entrepreneurship Hackathon** (Creativa Innovation Hub - Zagazig)  
-- 🌍 **Participant** in **NASA Space Apps Challenge** 2024  
+- 🌍 **Participant** in **NASA Space Apps Challenge** 2025  
 
 ---
 
